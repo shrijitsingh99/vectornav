@@ -1,0 +1,4 @@
+# IntelliJ project files
+.idea
+build/
+vnproglib-1.1.4.0/
